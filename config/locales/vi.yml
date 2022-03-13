@@ -1,0 +1,15 @@
+vi:
+  errors:
+    messages:
+      documents:
+        document_type:
+          record_not_found: Không tìm thấy loại văn bản theo mã loại văn bản %{id}
+        document_processing_time:
+          record_not_found: Không tìm thấy thời hạn xử lý văn bản theo mã thời hạn xử lý %{id}
+          processing_time_not_found: Không tìm thấy thời hạn xử lý văn bản theo mã loại văn bản %{document_type_id} và mã nơi đến %{document_destination_id}
+        document_destination:
+          record_not_found: Không tìm thấy nơi đến văn bản theo mã nơi đến văn bản %{id}
+          invalid:
+            document_destination_name: Tên nơi đến %{document_destination_name} đã tồn tại
+        document_incoming:
+          record_not_found: Không tìm thấy văn bản đến theo mã văn bản %{id}
