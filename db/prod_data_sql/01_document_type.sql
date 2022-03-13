@@ -1,0 +1,7 @@
+INSERT INTO document_types(id,document_type_name,description,created_at,updated_at) VALUES 
+(1,'Hành chính','Hành chính là văn bản pháp luật do những chủ thể có thẩm quyền ban hành theo trình tự, thủ tục và hình thức theo pháp luật quy định, có nội dung là ý chí của nhà nước, mang tính bắt buộc và được đảm bảo bằng quyền lực của nhà nước.',now(),now()),
+(2,'Báo cáo','Báo cáo là một loại văn bản dùng để trình bày một sự việc hoặc các kết quả hoạt động của một cơ quan, tổ chức trong một thời gian nhất định, qua đó cơ quan, tổ chức có thể đánh giá tình hình thực tế của việc quản lý, lãnh đạo định hướng những chủ trương mới phù hợp.',now(),now()),
+(3,'Thông báo','Thông báo là văn bản hành chính dùng để truyền đạt những tin tức, nội dung của quyết định cho cá nhân, bộ phận hoặc cơ quan.',now(),now()),
+(4,'Công văn','Công văn là văn bản hành chính thông dụng được sử dụng phổ biến trong các đơn vị, cơ quan, tổ chức, doanh nghiệp, công văn được xem như một phương tiện giao tiếp chính thức của cơ quan nhà nước với cấp trên, cấp dưới và công dân',now(),now()),
+(5,'Quyết định','Quyết định là văn bản thuộc hệ thống văn bản quy phạm pháp luật. Quyết định là việc công bố hay công nhận một vấn đề đối với tổ chức hay cá nhân nào đó có tính thực thi bắt buộc.',now(),now()),
+(6,'Quy chế','Quy chế là văn bản có chứa quy phạm pháp luật hoặc quy phạm xã hội do cơ quan, tổ chức có thẩm quyền ban hành, quy chế theo một trình tự, thủ tục nhất định, có hiệu lực đối với các thành viên thuộc phạm vi điều chỉnh của quy chế.',now(),now())

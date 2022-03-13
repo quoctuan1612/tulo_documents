@@ -1,0 +1,6 @@
+vi:
+  errors:
+    messages:
+      documents:
+        document_type:
+          record_not_found: Không tìm thấy loại văn bản theo mã loại văn bản %{id}
